@@ -1,3 +1,4 @@
+"Modelling of a simple bank account. When atm is used to withdraw more than thrice, it deducts ATM Charges of #65"
 import  random
 class Bank:
     count=10
