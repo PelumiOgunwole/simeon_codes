@@ -73,4 +73,3 @@ class Bank:
 if __name__ == '__main__':
     gtb=Bank()
     gtb.account_balance()
-hey
